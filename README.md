@@ -4,7 +4,7 @@
 - :school_satchel: Sou estudante da Universidade Virtual do Estado de São Paulo (UNIVESP).
 - :purple_heart: Realizo cursos sobre Front-End na Alura.
 - :star2: Estou em transição de carreira, da Educação para a Tecnologia.
-- :blossom: Atualmente estou conhecendo mais sobre Java-Script e DOM(Document Object Model).
+- :blossom: Atualmente estou conhecendo mais sobre TypeScript e React.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="80" height="80"/>
