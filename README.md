@@ -36,7 +36,7 @@ Permite cadastrar, atualizar, listar e remover alunos, além de associar telefon
 
 ---
 
-### 🗂️ Academic Manager
+### 🔷 ClientHub
 Uma aplicação web desenvolvida em **Angular** para organização e visualização de clientes.
 Permite buscar contatos com suporte a acentuação, agrupá-los automaticamente por letra inicial e visualizar informações como empresa e status.
 
