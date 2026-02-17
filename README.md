@@ -13,7 +13,7 @@
 ## Projetos em Destaque
 
 ### 🍄 GeekLab
-Uma aplicação fullstack para venda de miniaturas 3D pintadas à mão, criada para praticar **React, Node.js e MongoDB**.  
+Uma aplicação fullstack para venda de miniaturas 3D pintadas à mão, criada para praticar **React, Node.js e MongoDB**.
 Permite navegar pelos produtos, adicionar ao carrinho, acompanhar pedidos e realizar cadastro/login de usuários.
 
 🌐 [Repositório GeekLab](https://github.com/Natalia-Timote/geeklab)
