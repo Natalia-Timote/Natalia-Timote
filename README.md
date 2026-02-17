@@ -20,19 +20,27 @@ Permite navegar pelos produtos, adicionar ao carrinho, acompanhar pedidos e real
 
 ---
 
-### 🎉 Pa.ra.béns
-Um projeto interativo para criar mensagens de aniversário personalizadas, desenvolvido com **JavaScript** e boas práticas de **CRUD**.  
-Desenvolvido para exercitar manipulação de dados e criação de interfaces dinâmicas.
+### 🐣 StudyGotchi
+Uma aplicação desenvolvida em **React e TypeScript** inspirada nos clássicos Tamagotchis, com foco em incentivar uma rotina equilibrada de estudos.
+Permite gerenciar sessões de estudo, acompanhar níveis e evolução do mascote virtual com base na constância do usuário.
 
-🌐 [Repositório Pa.ra.béns](https://github.com/Natalia-Timote/parabens-app)
+🌐 [Repositório StudyGotchi](https://github.com/Natalia-Timote/tamagotchi)
 
 ---
 
-### ⭐ Favoritons
-Galeria de desenhos animados nostálgicos dos anos 90 e 2000, construída com **React**, permitindo favoritar suas animações preferidas e **explorar rotas dinâmicas**.  
-Projeto pensado para unir nostalgia e aprendizado em React.
+### 🗂️ Academic Manager
+Uma aplicação backend desenvolvida em **PHP 8+ com PDO e SQLite** que simula um sistema acadêmico.
+Permite cadastrar, atualizar, listar e remover alunos, além de associar telefones com organização arquitetural e boas práticas de persistência.
 
-🌐 [Repositório Favoritons](https://github.com/Natalia-Timote/favoritons)
+🌐 [Repositório Academic Manager](https://github.com/Natalia-Timote/academic-manager)
+
+---
+
+### 🗂️ Academic Manager
+Uma aplicação web desenvolvida em **Angular** para organização e visualização de clientes.
+Permite buscar contatos com suporte a acentuação, agrupá-los automaticamente por letra inicial e visualizar informações como empresa e status.
+
+🌐 [Repositório ClientHub](https://github.com/Natalia-Timote/clienthub)
 
 ## Contato 
 
